@@ -2,6 +2,7 @@
 # eMasters : Artificial Intelligence and Machine Learning
 
 This is an public repositry to maintain and share the important materials accross Peers of eMasters: AI ML cohert July 24. 
+
 LinkedIn Group: [AIML July 24 Batch](https://www.linkedin.com/groups/14470387/)
 
 Contains:
