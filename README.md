@@ -5,6 +5,8 @@ This is an public repositry to maintain and share the important materials accros
 
 LinkedIn Group: [AIML July 24 Batch](https://www.linkedin.com/groups/14470387/)
 
+Discord Link: [eMasters IITK AI ML](https://discord.gg/RE782JHs)
+
 Contains:
 - Course Handouts
 - Books
