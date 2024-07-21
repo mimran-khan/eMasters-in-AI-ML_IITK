@@ -16,6 +16,7 @@ Contains:
 
  - [EE950 - Data Analytics and Data Structures](https://github.com/mimran-khan/eMasters-in-AI-ML_IITK/tree/main/EE950%20-%20Data%20Analytics%20and%20Data%20Structures)
     -  [Quiz 1 : Answers+ Detailed Explanation](https://github.com/mimran-khan/eMasters-in-AI-ML_IITK/blob/main/EE950%20-%20Data%20Analytics%20and%20Data%20Structures/Quiz1.md)
+    -  Final Exams: Only Objective 
  - [EE951_ Introduction to Linear Algebra](https://github.com/mimran-khan/eMasters-in-AI-ML_IITK/tree/main/EE951_%20Introduction%20to%20Linear%20Algebra)
  - [EE952 - Introduction to Machine Learning](https://github.com/mimran-khan/eMasters-in-AI-ML_IITK/tree/main/EE952%20-%20Introduction%20to%20Machine%20Learning)
 
